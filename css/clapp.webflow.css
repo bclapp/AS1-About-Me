@@ -10,7 +10,7 @@ body {
   line-height: 20px;
 }
 h1 {
-  margin: 21px 34px 33px 22px;
+  margin: -15px 33px 40px 15px;
   padding-right: 32px;
   padding-bottom: 0px;
   padding-left: 66px;
@@ -68,25 +68,28 @@ p {
   padding-bottom: 0px;
 }
 .pic {
-  margin-right: 3px;
-  margin-left: 287px;
+  margin-right: -11px;
+  margin-bottom: 22px;
+  margin-left: 288px;
+  padding-left: 0px;
 }
 .text {
-  margin: -85px -56px 43px 10px;
+  margin: -85px -56px 55px 14px;
   padding: 62px 0px 23px 3px;
   font-weight: 600;
 }
 .block {
   margin-right: -23px;
-  margin-left: 14px;
+  margin-left: 4px;
   padding-right: 14px;
-  padding-left: 0px;
+  padding-left: 27px;
   background-color: #ccc;
   opacity: 0.6;
 }
 .mazy {
   margin: -73px 11px -46px 407px;
-  padding-bottom: 0px;
+  padding-top: 101px;
+  padding-bottom: 30px;
   padding-left: 58px;
 }
 @media (max-width: 991px) {
