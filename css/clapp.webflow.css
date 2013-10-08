@@ -10,10 +10,10 @@ body {
   line-height: 20px;
 }
 h1 {
-  margin: -15px 33px 40px 15px;
+  margin: 18px -43px 52px 45px;
   padding-right: 32px;
   padding-bottom: 0px;
-  padding-left: 66px;
+  padding-left: 34px;
   font-size: 38px;
   line-height: 44px;
   font-weight: 700;
@@ -75,19 +75,19 @@ p {
 }
 .text {
   margin: -85px -56px 55px 14px;
-  padding: 62px 0px 23px 3px;
+  padding: 62px 0px 23px;
   font-weight: 600;
 }
 .block {
   margin-right: -23px;
-  margin-left: 4px;
+  margin-left: -24px;
   padding-right: 14px;
   padding-left: 27px;
   background-color: #ccc;
   opacity: 0.6;
 }
 .mazy {
-  margin: -73px 11px -46px 407px;
+  margin: -129px 11px -46px 407px;
   padding-top: 101px;
   padding-bottom: 30px;
   padding-left: 58px;
